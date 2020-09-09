@@ -9,7 +9,7 @@
 <br>
 <br>
 
-## composition diagram
+## Composition Diagram
 ![1](https://user-images.githubusercontent.com/50494545/92577083-3d59dd00-f2c5-11ea-9082-56ffc851f9ed.PNG)
 
 <br>
