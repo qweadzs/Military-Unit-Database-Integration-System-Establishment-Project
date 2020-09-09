@@ -1,5 +1,4 @@
 # Military-Unit-Database-Integration-System-Establishment-Project
-<br>
 
 ## Introduction
 
